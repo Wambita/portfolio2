@@ -48,7 +48,7 @@ header {
     border-radius: 50%;
     border: 5px solid var(--card-background);
     box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-    background: url('../1737728814760.jpg');
+    background: url('./1737728814760.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
